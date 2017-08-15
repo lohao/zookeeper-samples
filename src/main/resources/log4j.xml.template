@@ -17,6 +17,10 @@
         <level value="INFO"/>
     </logger>
 
+    <logger name="com.lohao">
+        <level value="INFO"/>
+    </logger>
+
     <root>
         <level value="WARN"/>
         <appender-ref ref="CONSOLE"/>
